@@ -1,0 +1,63 @@
+#tomaPresion-container {
+    background-color:  #65B3FC;
+    text-align: left;  
+    width: 100%;
+    margin-top: 20px;
+}
+
+#tomaPresion-consulta-container {
+    background-color:  #d9e3f3;
+    display: flex;
+    text-align: left;  
+    width: 100%;
+}
+
+#mail-form {
+    color: white;
+    font-size: 16px;
+}
+
+#tomaPresion-label {
+    color: white;
+    font-size: 16px;
+}
+#guardar {
+    background-color:#FFBE5E;
+    color:whitesmoke;
+    border-radius: 10%;
+    float: left;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: monospace;
+    color: white;
+    text-align: center;
+}
+
+h5 {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.search-Label {
+    float: center;
+    padding-bottom: 10px;
+}
+
+#grid-button{
+    background-color:#FFBE5E;
+    color:whitesmoke;
+    border-radius: 10%; 
+    margin-right: 40px;
+}
+
+.reac-bs-table-sizePerPage-dropdown .dropdown-toggle{
+    float: left;
+    margin-bottom: 20px;
+}
+
+.sr-only {
+    font-size: 0;
+}
